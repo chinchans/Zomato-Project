@@ -1,4 +1,4 @@
-  name: Secure DevSecOps Pipeline 
+  name: CI_testing
   
   on: 
     push: 
